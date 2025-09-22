@@ -1,0 +1,6 @@
+[submodule "ebac-back-complete"]
+	path = ebac-back-complete
+	url = git@github.com:RodBSM/ebac-back-complete.git
+[submodule "ebac-front-complete"]
+	path = ebac-front-complete
+	url = git@github.com:RodBSM/ebac-front-complete.git
